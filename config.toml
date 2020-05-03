@@ -1,4 +1,4 @@
-baseURL = "https://giorgioloi.com/"
+baseURL = ""
 languageCode = "it"
 title = "Giorgio Loi | Software Engineer"
 theme = "personal-web"
@@ -26,9 +26,9 @@ pygmentsCodeFences=true
   mainSections = ['portfolio'] # values: ['post', 'portfolio'] only accept one section, to be displayed bellow 404
 
 [params.notFound]
-  gopher = "/images/gopher.png" # checkout https://gopherize.me/
+  gopher = "/images/gopher.jpg" # checkout https://gopherize.me/
   h1 = 'Bummer!'
-  p = "It seems that this page doesn't exist."
+  p = "Sembra che questa pagina non esista."
 
 [params.sections]
   # Define how your sections will be called
@@ -64,13 +64,20 @@ pygmentsCodeFences=true
   name = "Chi sono"
   title = "Chi sono"
   url = "/about/"
-  weight = -120
+  weight = -130
 
 [[menu.main]]
   identifier = "portfolio"
   name = "Portfolio"
   title = "Portfolio"
   url = "/portfolio/"
+  weight = -120
+
+[[menu.main]]
+  identifier = "servizi"
+  name = "Servizi"
+  title = "Servizi"
+  url = "/servizi/"
   weight = -110
 
 [[menu.main]]

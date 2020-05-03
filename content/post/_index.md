@@ -3,4 +3,4 @@ title: POST
 description: 'Posts Section'
 ---
 
-You'll add here a general introduction of your posts.
+In questa sezione aggiungerò dei post riguardanti miei interessi o dei consigli che potranno risultarvi utili.
