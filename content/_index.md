@@ -1,13 +1,16 @@
 ---
-title: HOME
-description: Welcome to this sample project
+title: Home
+description: Homepage del sito
 images: ["/images/sample.jpg"]
 ---
 
 Hey,
 
-I'm Giorgio Loi, il più scemo.
+Sono Giorgio Loi,
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus error cumque quisquam necessitatibus libero dolore porro, quo at molestiae modi voluptatibus iusto alias corporis. Accusamus, debitis, atque. Maiores, distinctio, neque.
+Finalmente mi son deciso di svilupparmi un sito tutto mio! 
 
-[Per conoscermi meglio...](/about "Get to know me better")
+Ci è voluto il lockdown per farmi mettere in moto ma anche un po' di curiosità perché è sempre stato nella mia to-do list
+quello di provare qualche nuova tecnologia (grazie Hugo!) per sviluppo di siti statici. Trovere un po' di notizie su di me, di cosa combino nella mia vita e magari qualche chicca tecnologica.
+
+[Per conoscermi meglio...](/about "Chi sono e cosa faccio")

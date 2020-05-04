@@ -5,6 +5,10 @@ images: ["/images/sample.jpg"]
 ---
 
 
-This is my about page. Sa pizza :wave:
+Chi sono e cosa faccio:
 
-Lorem ipsum dolor sit amet, :smile: consectetur adipisicing elit. Voluptates aut, tenetur distinctio voluptatibus ab. Nihil id dignissimos unde, tenetur iusto facilis suscipit corporis, ipsam necessitatibus, eaque iste deleniti consequuntur reprehenderit? :earth_africa:
+Ho conseguito la laurea triennale in Ingegneria Elettrica ed Elettronica presso l'università di Cagliari e ora sto per laurearmi in Ingegneria Informatica presso il Politecnico di Torino. Appena conseguita la mia laurea triennale ho iniziato subito a lavorare come Software Analyst presso Accenture, dandomi la possibilità di conoscere la vita "aziendale" e di mettermi alla prova con tanti colleghi.
+
+Volendo completare il mio percorso accademico ho deciso di interrompere l'attività lavorativa e di trasferirmi per frequentare il Politecnico di Torino col fine di aumentare il mio bagaglio di conoscenze e accrescere le mie esperienze .
+
+Al Politecnico ho avuto l'occasione di lavorare in diversi progetti, in diversi team e approfondire le mie conoscenze in ambito IT. Sono un grande appassionato di tecnologia, in tutte le sue forme, tant'è che nel tempo libero faccio piccole consulenze informatiche e assistenze tecniche a domicilio. :earth_africa:
