@@ -2,7 +2,7 @@ baseURL = ""
 languageCode = "it"
 title = "Giorgio Loi | Software Engineer"
 theme = "personal-web"
-copyright="© Giorgio Loi"
+copyright="© Giorgio Loi - 2020"
 googleAnalytics = ""
 enableEmoji=true
 enableRobotsTXT=true
@@ -27,7 +27,7 @@ pygmentsCodeFences=true
 
 [params.notFound]
   gopher = "/images/gopher.jpg" # checkout https://gopherize.me/
-  h1 = 'Bummer!'
+  h1 = 'Ops!'
   p = "Sembra che questa pagina non esista."
 
 [params.sections]
@@ -37,7 +37,7 @@ pygmentsCodeFences=true
   portfolio = "project"
 
 [params.sidebar]
-  backgroundImage = "/images/susirboniv.jpg" # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
+  backgroundImage = "/images/susirboniv.jpg" # header background image -
   gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
   logo = "/images/profilolink.jpg" # - default "/images/profilolink.jpg"
 [params.assets]
@@ -52,8 +52,8 @@ pygmentsCodeFences=true
   instagram = "https://www.instagram.com/gioxor/"
 
 [params.contact]
-  email = ""
-  text= "" # text of the contact link in the sidebar. If email params.contact.email is defined
+  email = "loi.giorgio1@gmail.com"
+  text= "E-mail" # text of the contact link in the sidebar. If email params.contact.email is defined
 
 
 [menu]
@@ -66,24 +66,24 @@ pygmentsCodeFences=true
   weight = -130
 
 [[menu.main]]
-  identifier = "portfolio"
-  name = "Portfolio"
-  title = "Portfolio"
-  url = "/portfolio/"
-  weight = -120
-
-[[menu.main]]
   identifier = "servizi"
   name = "Servizi"
   title = "Servizi"
   url = "/servizi/"
-  weight = -110
+  weight = -120
 
 [[menu.main]]
   identifier = "blog"
-  name = "Post"
+  name = "Blog"
   title = "Blog section"
   url = "/post/"
+  weight = -110
+
+  [[menu.main]]
+  identifier = "support"
+  name = "Supporto"
+  title = "Vuoi supportarmi?"
+  url = "/support/"
   weight = -100
 
 [sitemap]

@@ -1,5 +1,5 @@
 ---
-title: POST
+title: Blog
 description: 'Posts Section'
 ---
 
