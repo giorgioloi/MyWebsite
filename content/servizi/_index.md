@@ -8,3 +8,15 @@ Sei un privato o un libero professionista e hai bisogno di assistenza informatic
 
 
 Posso offrirti assistenza telematica per risolvere rapidamenti i tuoi problemi informatici a un buon prezzo! 
+
+Posso offrirti assistenza informatica in modalità remota in tutta Italia, grazie a un software che si collega al tuo computer posso eseguire dei comandi che mi permetteranno di risolvere i problemi del tuo pc.
+
+Ecco alcuni esempi di assistenza tecnica da remoto che posso effettuare:
+
+- Configurazione software
+- Configurazione casella posta elettronica o PEC
+- Installazione/rimozione anti-virus
+- Ottimizzazione prestazioni
+- Recupero dati e backup
+
+Contattami per avere ulteriori informazioni!
