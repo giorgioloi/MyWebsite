@@ -23,7 +23,7 @@ pygmentsCodeFences=true
 [params]
   breadcrumb = true
   accentColor = "#FD3519"
-  mainSections = ['portfolio'] # values: ['post', 'portfolio'] only accept one section, to be displayed bellow 404
+  mainSections = ['blog'] # values: ['post', 'portfolio'] only accept one section, to be displayed bellow 404
 
 [params.notFound]
   gopher = "/images/gopher.jpg" # checkout https://gopherize.me/
@@ -33,8 +33,8 @@ pygmentsCodeFences=true
 [params.sections]
   # Define how your sections will be called
   # when automatically pulled. For instance in the 404 page
-  post = "article"
-  portfolio = "project"
+  post = "post"
+  servizi = "project"
 
 [params.sidebar]
   backgroundImage = "/images/susirboniv.jpg" # header background image -
