@@ -86,6 +86,13 @@ pygmentsCodeFences=true
   url = "/support/"
   weight = -100
 
+    [[menu.main]]
+  identifier = "contact"
+  name = "Contattami"
+  title = "Contattami"
+  url = "/contattami/"
+  weight = -90
+
 [sitemap]
   changefreq = "monthly"
   filename = "sitemap.xml"
