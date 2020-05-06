@@ -1,4 +1,4 @@
-baseURL = "www.giorgioloi.com"
+baseURL = "/"
 languageCode = "it"
 title = "Giorgio Loi"
 theme = "personal-web"
