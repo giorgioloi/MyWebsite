@@ -1,6 +1,6 @@
-baseURL = ""
+baseURL = "www.giorgioloi.com"
 languageCode = "it"
-title = "Giorgio Loi | Software Engineer"
+title = "Giorgio Loi"
 theme = "personal-web"
 copyright="© Giorgio Loi - 2020"
 googleAnalytics = ""
