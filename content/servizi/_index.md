@@ -19,4 +19,4 @@ Ecco alcuni esempi di assistenza tecnica da remoto che posso effettuare:
 - Ottimizzazione prestazioni
 - Recupero dati e backup
 
-Contattami per avere ulteriori informazioni!
+Contattami al +393290359136 (WhatsApp e Telegram) per avere ulteriori informazioni!

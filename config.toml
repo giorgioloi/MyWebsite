@@ -11,7 +11,7 @@ pygmentsCodeFences=true
 
 [params.intro]
   main = "Giorgio Loi"
-  sub = "Ingegnere Informatico"
+  sub = "Benvenuti nel mio sito"
 
 [taxonomies]
   design = "designs"
@@ -81,7 +81,7 @@ pygmentsCodeFences=true
 
   [[menu.main]]
   identifier = "support"
-  name = "Supporto"
+  name = "Supportami"
   title = "Vuoi supportarmi?"
   url = "/support/"
   weight = -100
