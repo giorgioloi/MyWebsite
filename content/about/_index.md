@@ -1,7 +1,6 @@
 ---
 title: Chi sono
 description: Weila, sono Giorgio
-images: ["/images/sample.jpg"]
 ---
 
 
