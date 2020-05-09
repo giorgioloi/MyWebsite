@@ -52,7 +52,7 @@ pygmentsCodeFences=true
   instagram = "https://www.instagram.com/gioxor/"
 
 [params.contact]
-  email = "loi.giorgio1@gmail.com"
+  email = "info@giorgioloi.com"
   text= "E-mail" # text of the contact link in the sidebar. If email params.contact.email is defined
 
 

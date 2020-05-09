@@ -15,8 +15,9 @@ Ecco alcuni esempi di assistenza tecnica da remoto che posso effettuare:
 
 - Configurazione software
 - Configurazione casella posta elettronica o PEC
-- Installazione/rimozione anti-virus
+- Installazione/scelta anti-virus
+- Rimozione malware
 - Ottimizzazione prestazioni
 - Recupero dati e backup
 
-Contattami al +393290359136 (WhatsApp e Telegram) per avere ulteriori informazioni!
+Contattami al +393290359136 (WhatsApp e Telegram) o inviami una mail a info@giorgioloi.com per avere ulteriori informazioni!
