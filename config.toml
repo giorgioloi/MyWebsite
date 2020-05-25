@@ -79,19 +79,12 @@ pygmentsCodeFences=true
   url = "/post/"
   weight = -110
 
-  [[menu.main]]
-  identifier = "support"
-  name = "Supportami"
-  title = "Vuoi supportarmi?"
-  url = "/support/"
-  weight = -100
-
     [[menu.main]]
   identifier = "contact"
   name = "Contattami"
   title = "Contattami"
   url = "/contattami/"
-  weight = -90
+  weight = -100
 
 [sitemap]
   changefreq = "monthly"
