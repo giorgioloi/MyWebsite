@@ -1,7 +1,7 @@
 ---
 title: Home
 description: Homepage del sito
-images: ["/images/yos.png"]
+images: ["/images/gl.png"]
 ---
 
 Hey,
