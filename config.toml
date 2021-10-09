@@ -45,16 +45,14 @@ pygmentsCodeFences=true
   customCSS = ""
 
 [params.social]
-  github = "https://github.com/Gioxor"
+  github = "https://github.com/giorgioloi"
   linkedin = "https://www.linkedin.com/in/giorgioloi/"
-  facebook = "https://www.facebook.com/giorgio.loi1"
   youtube = "https://www.youtube.com/c/GiorgioLoiyo"
   instagram = "https://www.instagram.com/gioxor/"
 
 [params.contact]
   email = "info@giorgioloi.com"
   text= "E-mail" # text of the contact link in the sidebar. If email params.contact.email is defined
-
 
 [menu]
 
@@ -66,25 +64,11 @@ pygmentsCodeFences=true
   weight = -130
 
 [[menu.main]]
-  identifier = "servizi"
-  name = "Servizi"
-  title = "Servizi"
-  url = "/servizi/"
-  weight = -120
-
-[[menu.main]]
   identifier = "blog"
   name = "Blog"
   title = "Blog section"
   url = "/post/"
-  weight = -110
-
-    [[menu.main]]
-  identifier = "contact"
-  name = "Contattami"
-  title = "Contattami"
-  url = "/contattami/"
-  weight = -100
+  weight = -120
 
 [sitemap]
   changefreq = "monthly"

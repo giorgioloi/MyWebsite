@@ -6,7 +6,7 @@ description: Weila, sono Giorgio
 
 Chi sono e cosa faccio:
 
-Mi son laureato in Ingegneria Elettrica ed Elettronica presso l'Università di Cagliari e ora sto per prendere la laurea magistrale in Ingegneria Informatica presso il Politecnico di Torino. Appena conseguita la mia laurea triennale ho iniziato subito a lavorare come Software Analyst presso Accenture, dandomi la possibilità di conoscere la vita "aziendale" e di mettermi alla prova con tanti colleghi.
+A fine luglio ho conseguito  la laurea magistrale in Ingegneria Informatica presso il Politecnico di Torino. Prima di iniziare la magistrale ho lavorato come Software Analyst presso Accenture, dandomi la possibilità di conoscere la vita "aziendale" e di mettermi alla prova con tanti colleghi.
 
 Volendo completare il mio percorso accademico ho deciso di interrompere l'attività lavorativa e di trasferirmi per frequentare il Politecnico di Torino col fine di aumentare il mio bagaglio di conoscenze e accrescere le mie esperienze .
 
